@@ -1,2 +1,1 @@
-from booklover import booklover
-from booklover import booklover_test
+from booklover import booklover, booklover_test
