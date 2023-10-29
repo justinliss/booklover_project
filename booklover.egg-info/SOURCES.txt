@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+booklover/__init__.py
+booklover/booklover.py
+booklover/booklover_test.py
+booklover.egg-info/PKG-INFO
+booklover.egg-info/SOURCES.txt
+booklover.egg-info/dependency_links.txt
+booklover.egg-info/top_level.txt

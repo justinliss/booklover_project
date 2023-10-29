@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: booklover
+Version: 1
+Summary: This package contains the booklover.py module and the booklover_test.py module
+Home-page: https://github.com/justinliss/booklover_project
+Author: Justin Liss
+Author-email: hve2ku@virginia.edu
+License: MIT
+License-File: LICENSE
